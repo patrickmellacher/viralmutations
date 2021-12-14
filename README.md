@@ -1,1 +1,1 @@
-# viralmutations
+In this repository, you can find the code and graphical user interface for the paper "Endogenous viral mutations, evolutionary selection, and containment policy design" forthcoming in the Journal of Economic Interaction and Coordination.
